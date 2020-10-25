@@ -1,5 +1,5 @@
 # javaProramm
-Add two numbers
+Add two numbers for java
 
 public class AddTwoNumbers {
 
